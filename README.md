@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hello there 👋, I'm Mia  
 
-<!--
-**mmiavldz/mmiavldz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Computer Engineering Undergraduate.    
+✨ Interested in mobile app dev, AI & Robotics. 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Languages & Tools  
+
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Haskell](https://img.shields.io/badge/-Haskell-5D4F85?style=flat&logo=haskell&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+
+---
+
+## 📫 Connect with me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/miavildoza/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/mmiamorrr)
+
+---
+
+✨ _“Sky is(nt) the limit”_ ✨
+
+
