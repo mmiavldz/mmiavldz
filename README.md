@@ -7,7 +7,6 @@
 
 ## 🛠️ Languages & Tools  
 
-
 <p align="left">
   <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/>
@@ -27,8 +26,8 @@
 
 ## 📫 Contact me!
 
-<a href="https://www.linkedin.com/in/mia-vildoza-0650612a5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/></a>
-<a href="https://x.com/mmiamorrr"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="twitter" width="40" height="40"/></a>
+<a href="https://www.linkedin.com/in/mia-vildoza-0650612a5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="20" height="20"/></a>
+<a href="https://x.com/mmiamorrr"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="twitter" width="20" height="20"/></a>
 
 ---
 
