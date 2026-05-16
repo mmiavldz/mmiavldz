@@ -1,6 +1,8 @@
-<img src="assets/banner.gif" />
+<p align="center">
+  <img src="assets/banner.gif" width="100%" />
+</p>
 
-#Hello there, I'm Mia!
+<h1 align="center">Hello there, I'm Mia!</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -8,14 +10,19 @@
   </a>
 </p>
 
+<br>
+
+<p align="center">
+  Currently exploring web development while building a strong foundation in programming, mathematics and computer systems through university.
+  <br><br>
+  Right now I'm focused on improving my skills in:
+  <br>
+  HTML • CSS • JavaScript
+</p>
+
 ---
 
-Currently exploring web development while building a strong foundation in programming, mathematics and computer systems through university.
-Right now I'm focused on improving my skills in: HTML - CSS - JavaScript.
-
-
----
-## ~ Stack ~
+<h2 align="center">~ Stack ~</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,html,css,js&theme=dark" />
@@ -24,16 +31,24 @@ Right now I'm focused on improving my skills in: HTML - CSS - JavaScript.
 <p align="center">
   <i>always learning!</i>
 </p>
----
 
-## Currently working on..
-° Visual Novel powered by RenPy
-° Random web pages 
+<br>
 
 ---
-## Let's connect!
 
-## connect
+<h2 align="center">Currently working on..</h2>
+
+<p align="center">
+  Visual Novel powered by RenPy
+  <br>
+  Random web pages
+</p>
+
+<br>
+
+---
+
+<h2 align="center">Let's connect!</h2>
 
 <p align="center">
   <a href="https://linkedin.com/in/mia-vildoza">
@@ -45,6 +60,7 @@ Right now I'm focused on improving my skills in: HTML - CSS - JavaScript.
   </a>
 </p>
 
+<br>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/mmiavldz/mmiavldz/output/github-contribution-grid-snake-dark.svg" />
