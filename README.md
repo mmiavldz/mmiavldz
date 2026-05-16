@@ -51,7 +51,7 @@
 <h2 align="center">Let's connect!</h2>
 
 <p align="center">
-  <a href="https://linkedin.com/in/mia-vildoza">
+  <a href="https://www.linkedin.com/in/mia-vildoza-0650612a5?utm_source=share_via&utm_content=profile&utm_medium=member_android">
     <img src="https://img.shields.io/badge/linkedin-171717?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
