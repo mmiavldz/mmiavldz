@@ -1,36 +1,51 @@
-# Hello there 👋, I'm Mia  
+<img src="assets/banner.gif" />
 
-👩‍💻 Computer Engineering Student.    
-✨ Interested in mobile app dev, AI & Robotics. 
+#Hello there, I'm Mia!
 
----
-
-## 🛠️ Languages & Tools  
-
-<p align="left">
-  <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/>
-  </a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="50" height="50"/>
-  </a>
-  <a href="https://www.haskell.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg" alt="haskell" width="50" height="50"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Lucida+Sans&size=24&duration=2500&pause=1500&color=58A6FF&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;Front-End+Developer+in+progress" />
   </a>
 </p>
 
 ---
 
-## 📫 Contact me!
+Currently exploring web development while building a strong foundation in programming, mathematics and computer systems through university.
+Right now I'm focused on improving my skills in: HTML - CSS - JavaScript.
 
-<a href="https://www.linkedin.com/in/mia-vildoza-0650612a5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="20" height="20"/></a>
-<a href="https://x.com/mmiamorrr"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="twitter" width="20" height="20"/></a>
 
 ---
+## ~ Stack ~
 
-✨ _“Sky is(nt) the limit”_ ✨
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,js&theme=dark" />
+</p>
+
+<p align="center">
+  <i>always learning!</i>
+</p>
+---
+
+## Currently working on..
+° Visual Novel powered by RenPy
+° Random web pages 
+
+---
+## Let's connect!
+
+## connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/mia-vildoza">
+    <img src="https://img.shields.io/badge/linkedin-171717?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://twitter.com/mmiamorrr">
+    <img src="https://img.shields.io/badge/twitter-171717?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+</p>
 
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mmiavldz/mmiavldz/output/github-contribution-grid-snake-dark.svg" />
+</p>
